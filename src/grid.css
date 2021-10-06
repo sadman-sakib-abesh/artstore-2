@@ -1,0 +1,64 @@
+.grid-1{
+    height: 70%;
+    width: 5px;
+    background-color: rgba(20, 101, 194, 0.753);
+    top:-500px;
+    left: 50px;
+    position: absolute;
+}
+
+.grid-2{
+    height:60%;
+    width: 3px;
+    background-color: rgba(7, 36, 68, 0.932);
+    top:-60%;
+    left: 60px;
+    position: absolute;
+}
+
+
+.grid-3{
+    height: 3px;
+    width:60%;
+    background-color: rgba(20, 101, 194, 0.753);
+    top:50px;
+    left:-60%;
+    position: absolute;
+}
+
+.grid-4{
+    height: 3px;
+    width:50%;
+    background-color: rgba(35, 45, 58, 0.932);
+    top:60px;
+    left:-50%;
+    position: absolute;
+}
+
+
+
+.about{
+    position: absolute;
+    width: 80%;
+    
+    background-color: rgba(0, 0, 0, 0.781);
+    height:300px ;
+    top:100px;
+    right:-80%;
+}
+
+.about p h1{
+    color: rgb(45, 67, 235);
+}
+
+
+.about p h4{
+    color: rgb(240, 241, 250);
+    
+    
+}
+
+.about p{
+    margin: 50px;
+    
+}

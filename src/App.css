@@ -1,0 +1,106 @@
+body{
+  background-image: url("./pexels-negative-space-169573.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgb(40, 117, 218); 
+
+  height: 10px;
+  width: 5px;
+  border-radius: 25px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #467cdf; 
+  transition: 1s;
+  border-radius: 25px;
+}
+
+
+::-webkit-scrollbar {
+  width: 10px;
+  height: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+#a{
+color: rgb(247, 249, 252);
+text-decoration: none;
+font-size: 20px;
+}
+.starter{
+  background-color: white;
+ max-width: 100%;
+}
+
+.projects{
+background-color: white;
+width: 80%;
+min-height:700px;
+position: absolute;
+top: 600px;
+margin: 5%;
+margin-bottom: 50px;
+padding:60px;
+}
+
+
+.blogs{
+  background-color:black;
+  width: 80%;
+  min-height:700px;
+  position: absolute;
+  top: 60px;
+  margin: 5%;
+  margin-bottom: 50px;
+  opacity: 0.8;
+  padding:60px;
+  }
+
+  .blogs h2{
+    color:white;
+    border-bottom: 1px solid lightgray;
+
+  }
+
+  
+
+
+
+.blog{
+  color:rgb(16, 84, 185);
+  text-decoration: none;
+  border: 3px solid rgb(16, 84, 185);
+  border-radius: 25px;
+  font-weight:bold;
+  font-size: x-large;
+}
+
+.sector{
+  border-top: 1px solid lightgray;
+  border-bottom:1px solid lightgray ;
+  width: 100%;
+}
+
+.sector h2{
+  color: rgb(127, 159, 207);
+}
+
+
+.sector a{
+  color:black;
+  font-size: 20px;
+  text-decoration: none;
+}
